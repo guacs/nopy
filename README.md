@@ -35,3 +35,6 @@ client.close()
 **NOTE**: Instead of passing in the integration token, you could instead store the token in the environment variables with the key `NOTION_TOKEN`.
 
 The detailed documentation can be found [here](https://visakhchekur.github.io/nopy/).
+
+
+NOTE: This used to live [here](https://github.com/VisakhChekur/nopy), but I have since moved it to this account. The old one is now archived and thus, read-only. All future updates will occur in this repository. PyPi and the documentation will soon be updated to reflect this change as well.
